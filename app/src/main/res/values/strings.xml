@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ItemCalculator</string>
+    <string name="shared_prefrence">File Shared Prefrence</string>
+</resources>
